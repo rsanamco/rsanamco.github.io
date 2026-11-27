@@ -19,7 +19,7 @@
   "heroSubtitle": "",
   "appearance": {
     "background": "#000000",
-    "text": "#eeeeee",
+    "text": "#ffffff",
     "accent": "#d5b992",
     "card": "#222222",
     "muted": "#bbbbbb",
@@ -27,11 +27,12 @@
     "subtitleFont": "Modern",
     "bodyFont": "Modern",
     "titleSize": 64,
-    "subtitleSize": 20,
+    "subtitleSize": 0,
     "bodySize": 16,
     "titleColor": "#eeeeee",
     "subtitleColor": "#bbbbbb",
     "theme": "Dark"
   },
-  "banner": "artwork/872f0c2a-4b19-4193-bc22-5219e711da90.jpg"
+  "banner": "artwork/872f0c2a-4b19-4193-bc22-5219e711da90.jpg",
+  "heroTitle": "Background & Visual artist."
 }
