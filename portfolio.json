@@ -84,7 +84,28 @@
           "desktop": {}
         }
       },
-      "items": []
+      "items": [],
+      "library": [
+        {
+          "path": "artwork/2cc2b8b7-fb98-436b-b60f-8fd56a6b6933.mp3",
+          "name": "Zambolino - Nighttime (freetouse.com).mp3"
+        },
+        {
+          "path": "artwork/12360511-f2e4-4ce9-9686-726621807188.mp3",
+          "name": "Sunborn - Evening Thoughts (freetouse.com).mp3"
+        },
+        {
+          "path": "artwork/c28668a5-9b4b-4067-a92d-ac2f97f89b5e.mp3",
+          "name": "Sunborn - Evening Thoughts (freetouse.com).mp3"
+        },
+        {
+          "path": "artwork/e931bacf-338b-4d1e-91a5-cf48cacaf0c6.mp3",
+          "name": "Sunborn - Evening Thoughts (freetouse.com).mp3"
+        }
+      ],
+      "music": "artwork/e931bacf-338b-4d1e-91a5-cf48cacaf0c6.mp3",
+      "loop": true,
+      "volume": 40
     },
     "imageStyles": {
       "slide:0": {},
