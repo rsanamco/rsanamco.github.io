@@ -12,7 +12,11 @@
     "cursor": true,
     "slideshow": true,
     "visibility": {
-      "heroSubtitle": "all"
+      "heroSubtitle": "all",
+      "mode": "all",
+      "navWork": "all",
+      "navAbout": "all",
+      "navContact": "all"
     },
     "sectionStyles": {
       "heroTitle": {
@@ -33,7 +37,35 @@
       "contact",
       "footer",
       "heroSubtitle"
-    ]
+    ],
+    "moves": {
+      "heroTitle": {},
+      "mode": {},
+      "navAbout": {},
+      "navigation": {},
+      "navWork": {},
+      "navContact": {}
+    },
+    "studio": {
+      "responsive": {
+        "heroTitle": {
+          "desktop": {}
+        },
+        "mode": {},
+        "navAbout": {
+          "desktop": {}
+        },
+        "navigation": {
+          "desktop": {}
+        },
+        "navWork": {
+          "desktop": {}
+        },
+        "navContact": {
+          "desktop": {}
+        }
+      }
+    }
   },
   "highlights": [
     {
