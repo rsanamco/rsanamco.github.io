@@ -21,6 +21,12 @@
     "subtitleColor": "#bbbbbb",
     "theme": "Dark"
   },
-  "options": {},
+  "options": {
+    "availability": true,
+    "mode": true,
+    "loading": true,
+    "cursor": true,
+    "slideshow": true
+  },
   "highlights": []
 }
