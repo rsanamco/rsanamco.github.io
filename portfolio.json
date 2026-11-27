@@ -12,9 +12,11 @@
     "cursor": true,
     "slideshow": true
   },
-  "highlights": [],
+  "highlights": [
+    {},
+    {}
+  ],
   "heroSubtitle": "",
-  "logo": "artwork/ddd09633-9106-401f-816b-8897b0b4b31c.jpg",
   "appearance": {
     "background": "#000000",
     "text": "#eeeeee",
@@ -30,5 +32,6 @@
     "titleColor": "#eeeeee",
     "subtitleColor": "#bbbbbb",
     "theme": "Dark"
-  }
+  },
+  "banner": "artwork/872f0c2a-4b19-4193-bc22-5219e711da90.jpg"
 }
