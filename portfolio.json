@@ -43,7 +43,10 @@
       "mode": {},
       "navAbout": {},
       "navigation": {},
-      "navWork": {},
+      "navWork": {
+        "x": 0,
+        "y": 24
+      },
       "navContact": {},
       "image:banner": {
         "x": 0,
