@@ -5,8 +5,18 @@
   "instagram": "https://www.instagram.com/amal_loloa?hvrq=ZXUwbnl0bDhyYTZ0",
   "artstation": "https://www.artstation.com/rsanamco",
   "albums": [],
+  "options": {
+    "availability": true,
+    "mode": true,
+    "loading": true,
+    "cursor": true,
+    "slideshow": true
+  },
+  "highlights": [],
+  "heroSubtitle": "",
+  "logo": "artwork/ddd09633-9106-401f-816b-8897b0b4b31c.jpg",
   "appearance": {
-    "background": "#67754d",
+    "background": "#000000",
     "text": "#eeeeee",
     "accent": "#d5b992",
     "card": "#222222",
@@ -20,13 +30,5 @@
     "titleColor": "#eeeeee",
     "subtitleColor": "#bbbbbb",
     "theme": "Dark"
-  },
-  "options": {
-    "availability": true,
-    "mode": true,
-    "loading": true,
-    "cursor": true,
-    "slideshow": true
-  },
-  "highlights": []
+  }
 }
