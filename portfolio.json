@@ -25,7 +25,7 @@
       },
       "heroSubtitle": {},
       "banner": {
-        "offset": 50
+        "offset": 0
       }
     },
     "sectionOrder": [
@@ -44,7 +44,14 @@
       "navAbout": {},
       "navigation": {},
       "navWork": {},
-      "navContact": {}
+      "navContact": {},
+      "image:banner": {
+        "x": 0,
+        "y": 0
+      },
+      "banner": {},
+      "image:slide:0": {},
+      "image:slide:1": {}
     },
     "studio": {
       "responsive": {
@@ -63,8 +70,17 @@
         },
         "navContact": {
           "desktop": {}
+        },
+        "banner": {
+          "desktop": {}
         }
-      }
+      },
+      "items": []
+    },
+    "imageStyles": {
+      "slide:0": {},
+      "slide:1": {},
+      "banner": {}
     }
   },
   "highlights": [
