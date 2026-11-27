@@ -16,8 +16,8 @@
     },
     "sectionStyles": {
       "heroTitle": {
-        "align": "left",
-        "offset": 50
+        "align": "center",
+        "offset": 0
       },
       "heroSubtitle": {},
       "banner": {
