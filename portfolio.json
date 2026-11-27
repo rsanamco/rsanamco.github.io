@@ -41,8 +41,14 @@
     "moves": {
       "heroTitle": {},
       "mode": {},
-      "navAbout": {},
-      "navigation": {},
+      "navAbout": {
+        "x": 0,
+        "y": 12
+      },
+      "navigation": {
+        "x": 0,
+        "y": 24
+      },
       "navWork": {
         "x": 0,
         "y": 24
